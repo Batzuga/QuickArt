@@ -81,3 +81,8 @@ h1{
     color: #222222 !important;
     cursor: default !important;
 }
+.selected
+{
+    color: gold !important;
+    cursor: default !important;
+}
