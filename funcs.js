@@ -25,7 +25,7 @@ function Stop()
 
 function Next()
 {
-
+    minutes = 4;
 }
 
 function Timer()
